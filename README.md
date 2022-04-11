@@ -5,18 +5,18 @@
 ## Hosted talks and workshops
 |Title|Presenter|Slides|Video|
 |--|--|--|--|
-|Introduction to Kubernetes for developers (Kubernetes basics for developers)|Saman Hoseini| [Slide]() | [Aparat]() |
-|Docker Workshop|Ahmad Anvari| [Slide]() | [Aparat]() |
-|How to use NATS as a message broker?|Parham Alvani| [Slide]() | [Aparat]() |
-|GitOps (create your CD pipeline using Git !)|Mahdi Mallaki| [Slide]() | [Aparat]() |
-|What is SRE?|Mostafa Meshkati| [Slide]() | [Aparat]() |
-|Introduction to webRTC|Mohammad Nasr| [Slide]() | [Aparat]() |
-|Generics in Go|MohammadMehdi Teymorian| [Slide]() | [Aparat]() |
-|Linux Virtualization|Parham Alvani| [Slide]() | [Aparat]() |
-|Container Security Fundamental + Securing Microservices using WAF|Amir Moghaddam & Kasra Motamedi| [Slide]() | [Aparat]() |
-|Security monitoring in Linux: Comparing Wazuh and Auditbeat|Maryam Alijanpour| [Slide]() | [Aparat]() |
-|Introduction to Container systems|Hamid Emamian| [Slide]()| [Aparat]() |
-|Docker & Kubernetes ethical hacking|Dr. Namadi| [Slide]() | [Aparat]() |
+|Introduction to Kubernetes for developers (Kubernetes basics for developers)|Saman Hoseini| [-]() | [Aparat]() |
+|Docker Workshop|Ahmad Anvari| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/gitops-presentation.pdf) | [Aparat]() |
+|How to use NATS as a message broker?|Parham Alvani| [-]() | [Aparat]() |
+|GitOps (create your CD pipeline using Git !)|Mahdi Mallaki| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/gitops-presentation.pdf) | [Aparat]() |
+|What is SRE?|Mostafa Meshkati| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/sre_linuxfest.pdf) | [Aparat]() |
+|Introduction to webRTC|Mohammad Nasr| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/WebRTC.pdf) | [Aparat]() |
+|Generics in Go|MohammadMehdi Teymorian| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/generics-in-go.pdf) | [Aparat]() |
+|Linux Virtualization|Parham Alvani| [-]() | [Aparat]() |
+|Container Security Fundamental + Securing Microservices using WAF|Amir Moghaddam & Kasra Motamedi| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/WAF.pdf) | [Aparat]() |
+|Security monitoring in Linux: Comparing Wazuh and Auditbeat|Maryam Alijanpour| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/Container_Security.pdf) | [Aparat]() |
+|Introduction to Container systems|Hamid Emamian| [-]()| [Aparat]() |
+|Docker & Kubernetes ethical hacking|Dr. Namadi| [-]() | [Aparat]() |
 
 
 Details are in our Telegram channel, [Join us](https://t.me/LinuxFest)
