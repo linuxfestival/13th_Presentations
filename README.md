@@ -5,7 +5,7 @@
 ## Hosted talks and workshops
 |Title|Presenter|Slides|Video|
 |--|--|--|--|
-|Introduction to Kubernetes for developers (Kubernetes basics for developers)|Saman Hoseini| [-]() | [Aparat]() |
+|Introduction to Kubernetes for developers (Kubernetes basics for developers)|Saman Hoseini| [-]() | [Part1](https://www.aparat.com/v/ZUbys) / [Part2](https://www.aparat.com/v/qun5C) |
 |Docker Workshop|Ahmad Anvari| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/gitops-presentation.pdf) | [Aparat]() |
 |How to use NATS as a message broker?|Parham Alvani| [-]() | [Aparat]() |
 |GitOps (create your CD pipeline using Git !)|Mahdi Mallaki| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/gitops-presentation.pdf) | [Aparat]() |
