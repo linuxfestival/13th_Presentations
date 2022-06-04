@@ -6,7 +6,7 @@
 |Title|Presenter|Slides|Video|
 |--|--|--|--|
 |Introduction to Kubernetes for developers (Kubernetes basics for developers)|Saman Hoseini| [-]() | [Part1](https://www.aparat.com/v/ZUbys) / [Part2](https://www.aparat.com/v/qun5C) |
-|Docker Workshop|Ahmad Anvari| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/gitops-presentation.pdf) | [Part1](https://www.aparat.com/v/kla0X) / [Part2](https://www.aparat.com/v/RodGK) / [Part3](https://www.aparat.com/v/G7dbm) |
+|Docker Workshop|Ahmad Anvari| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/Presentation.pdf) | [Part1](https://www.aparat.com/v/kla0X) / [Part2](https://www.aparat.com/v/RodGK) / [Part3](https://www.aparat.com/v/G7dbm) |
 |How to use NATS as a message broker?|Parham Alvani| [-]() | [Aparat](https://www.aparat.com/v/Hv3b9) |
 |GitOps (create your CD pipeline using Git !)|Mahdi Mallaki| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/gitops-presentation.pdf) | [Aparat](https://www.aparat.com/v/ts31Y) |
 |What is SRE?|Mostafa Meshkati| [Slide](https://github.com/linuxfestival/13th_Presentations/blob/main/slides/sre_linuxfest.pdf) | [-]() |
